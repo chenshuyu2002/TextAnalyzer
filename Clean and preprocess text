@@ -1,0 +1,5 @@
+import textanalyzer as ta
+
+text = "This is an example sentence for text preprocessing."
+cleaned_text = ta.clean_text(text)
+preprocessed_text = ta.preprocess_text(text)

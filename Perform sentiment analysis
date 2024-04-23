@@ -1,0 +1,1 @@
+sentiment = ta.analyze_sentiment(text)

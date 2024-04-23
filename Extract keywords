@@ -1,0 +1,1 @@
+keywords = ta.extract_keywords(text)
